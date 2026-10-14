@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# Server log
+server.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local server
+server.js
